@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UngDungQuanLy.MainPage">
+
+    <StackLayout>
+        <ListView x:Name="lstSinhVien">
+            <ListView.ItemTemplate>
+                <DataTemplate >
+                    <ViewCell  >
+                        <Grid ColumnDefinitions="50,*,*,*,*,*,*" HeightRequest="300">
+                            <Label x:Name="lblId" Grid.Column="0" Text="{Binding SinhVienID}"/>
+                            <Label x:Name="lblName" Grid.Column="1" Text="{Binding HoTen}"/>
+                            <Label x:Name="lblNgaySinh" Grid.Column="2" Text="{Binding NgaySinh}"/>
+                            <Label x:Name="lblGioiTinh" Grid.Column="3" Text="{Binding GioiTinh}"/>
+                            <Label x:Name="lblDienThoai" Grid.Column="4" Text="{Binding DienThoai}"/>
+                            <Button Text="Sửa" x:Name="btnEdit" Clicked="btnEdit_Clicked" Grid.Column="5" HorizontalOptions="Start"/>
+                            <Button Text="Xóa" x:Name="btnDelete" Clicked="btnDelete_Clicked" Grid.Column="6"  HorizontalOptions="End"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+            
+        </ListView>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnAdd" Clicked="btnAdd_Clicked" Text="+" FontSize="20" HeightRequest="50" WidthRequest="50"
+                    CornerRadius="25" HorizontalOptions="EndAndExpand" Padding="10">
+            </Button>
+            
+            
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>

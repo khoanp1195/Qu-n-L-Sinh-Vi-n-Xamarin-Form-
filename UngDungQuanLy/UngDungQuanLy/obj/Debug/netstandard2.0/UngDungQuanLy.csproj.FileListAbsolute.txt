@@ -1,0 +1,16 @@
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\bin\Debug\netstandard2.0\UngDungQuanLy.deps.json
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\bin\Debug\netstandard2.0\UngDungQuanLy.dll
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\bin\Debug\netstandard2.0\ref\UngDungQuanLy.dll
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\bin\Debug\netstandard2.0\UngDungQuanLy.pdb
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.csproj.AssemblyReference.cache
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\AddSV.xaml.g.cs
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.AssemblyInfoInputs.cache
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.AssemblyInfo.cs
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.csproj.CoreCompileInputs.cache
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.dll
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\ref\UngDungQuanLy.dll
+D:\Xamarin\UngDungQuanLy\UngDungQuanLy\UngDungQuanLy\obj\Debug\netstandard2.0\UngDungQuanLy.pdb

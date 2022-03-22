@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UngDungQuanLy.AddSV">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Thêm Mới Sinh Viên" FontSize="40"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand" />
+
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Họ Tên" />
+                <Entry x:Name="txtHoTen" WidthRequest="200"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Ngày Sinh" />
+                <DatePicker x:Name="txtNgaySinh" WidthRequest="100"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Gioi Tính"/>
+                <Picker x:Name="pkGioiTinh" WidthRequest="100">
+                    <Picker.Items>
+                        <x:String>Nam</x:String>
+                        <x:String>Nữ</x:String>
+                     
+                        
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Điện Thoại"/>
+                <Entry x:Name="txtDienThoai"  WidthRequest="100"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="btnThem" Text="Thêm SV" Clicked="btnThem_Clicked"/>
+
+            </StackLayout>
+
+
+        </StackLayout>
+    
+
+
+    </ContentPage.Content>
+</ContentPage>
